@@ -1,0 +1,19 @@
+h1 {
+	color: pink;
+	background-color: yellow;
+	font-size: 100px;
+	font-weight: bold;
+	font:400 100 px;
+	width: 50%;
+	height: 100 px
+	text-align: center;
+}
+h2#name{
+	width: 50%;
+	height: 100px;
+}
+p.blue{
+	margin-top: 10px;
+	color: blue;
+	margin-bottom: 10px;
+}
